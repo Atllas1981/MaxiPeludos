@@ -247,6 +247,13 @@
 /* FIN CARD */
 
 
+/* Caniche.html*/
+.custom-list li {
+  margin-left: 15px;
+  font-size: 1.25em;
+}
+
+
 
 /* FOOTER */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
